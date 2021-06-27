@@ -1,0 +1,25 @@
+.header-background {
+    background: #14d4eccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.header-logo {
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    vertical-align: text-top;
+    letter-spacing: 2px;
+    font-family: 'Roboto', cursive;
+    font-weight: 700;
+    background-color: #45d3e4;
+    box-shadow: 2px 1px 3px 1px #71b1b9;
+    padding: 12px;
+}
+.header-item {
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 15px;
+    letter-spacing: 1px;
+    margin: 10px;
+}
